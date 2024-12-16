@@ -67,8 +67,3 @@ genetexium-api/
 └── LICENSE                  # License information
 
 
-
-This README file includes key features, installation steps, basic usage, and repository structure—ideal for a GitHub repository. Let me know if you need any adjustments!
-
-
-
